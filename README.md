@@ -1,0 +1,12 @@
+# TechGears Catalog UI 📦
+Project praktikum Minggu 3 - Flexbox Mastery.
+
+## 📸 Preview
+
+## 🛠️ Features
+- Responsive Grid Layout
+- Absolute Positioned Sale Badge
+- Modern Dark UI Theme
+
+## 🔗 Live Preview
+[Cek di Expo Snack](https://snack.expo.dev/@juantambunan/thoughtful-blue-soylent)
